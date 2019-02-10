@@ -3,9 +3,13 @@ This repository is a collection of codes, figures, and analysis of Bike data rep
 
 ## Data Description
 -Dataset name: Bike Vendors
+
 -Source: ANLY 510 course project
+
 -Number of rows or observations: 97
+
 -Number of columns or variables: 35
+
 -Data contents- The data consists of the fraction of different models at various vendors across the cities in the United States. Additional information on bike type, usage, frame type and price of various models are also available. 
 
 ## Analysis
